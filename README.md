@@ -7,3 +7,5 @@ Hello World
 goodbye
 
 さようなら
+
+ローカルの変更
